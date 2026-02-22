@@ -101,7 +101,6 @@ Development and maintenance of private Ragnarok Online server:
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jhonvaliense&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonvaliense&layout=compact&theme=tokyonight" />
 </p>
 
@@ -114,13 +113,6 @@ Development and maintenance of private Ragnarok Online server:
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jhonvaliense&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
