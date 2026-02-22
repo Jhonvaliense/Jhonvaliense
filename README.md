@@ -100,10 +100,11 @@ Development and maintenance of private Ragnarok Online server:
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jhonvaliense&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonvaliense&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jhonvaliense&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonvaliense&layout=compact&theme=tokyonight" />
+</p>
+
 
 <div align="center">
   
