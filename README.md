@@ -68,7 +68,7 @@ Complete e-commerce platform for multiple vendors:
 - Administrative panel for order management
 - Reviews and ratings system
 
-**Stack:** React, Next.js, PHP, MySQL, Tailwind CSS
+**Stack:** React, Next.js, POSTGRE, Tailwind CSS
 
 ---
 
